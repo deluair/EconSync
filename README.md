@@ -285,19 +285,19 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🚀 Future Roadmap
 
-### 🔄 Short Term (Q1 2024)
+### 🔄 Short Term (Q1 2026)
 - [ ] Integration with real-time data sources (FRED, Yahoo Finance)
 - [ ] Web-based dashboard interface
 - [ ] Additional LoRA adapters for specialized domains
 - [ ] Performance optimizations and quantization
 
-### 🎯 Medium Term (Q2-Q3 2024)
+### 🎯 Medium Term (Q2-Q3 2026)
 - [ ] Multi-modal analysis (charts, images, documents)
 - [ ] Advanced econometric modeling capabilities
 - [ ] Collaborative research features
 - [ ] Enterprise security and compliance features
 
-### 🌟 Long Term (Q4 2024+)
+### 🌟 Long Term (Q4 2026+)
 - [ ] Mobile applications for real-time analysis
 - [ ] Integration with major economic databases
 - [ ] Advanced AI agents for autonomous research
